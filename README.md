@@ -11,7 +11,7 @@ A classic Snake game implemented in Go and compiled to WebAssembly, featuring sm
 
 Clone and run:
 ```sh
-git clone <repository-url>
+git clone https://github.com/jolovicdev/snake-wasm.git
 cd snake-wasm
 make run
 ```
